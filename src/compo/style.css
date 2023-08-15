@@ -1,0 +1,110 @@
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.home {
+
+    margin: auto;
+}
+
+.home .addMbtn {
+
+    margin-left: 600px;
+    background-color: rgb(4, 4, 32);
+    color: white;
+    text-decoration: none;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.home .addMbtn1 {
+
+
+    color: white;
+    text-decoration: none;
+
+
+}
+
+.home .addMbtn Link {
+
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.memberdetails {
+
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 25%;
+    width: 800px;
+
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+    height: 100px;
+    box-shadow: 3px 11px 20px 1px rgba(0, 0, 0, 0.23);
+    -webkit-box-shadow: 3px 11px 20px 1px rgba(0, 0, 0, 0.23);
+    -moz-box-shadow: 3px 11px 20px 1px rgba(0, 0, 0, 0.23);
+}
+
+.info img {
+
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.info .info__details {
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.info__buttons {
+
+    margin-right: 80px;
+}
+
+.details {
+
+    margin-left: 20px;
+}
+
+.details h4 {
+
+
+    font-size: 20px;
+    margin: 0%;
+    padding-top: 30px;
+
+}
+
+.details p {
+
+
+    margin: 0%;
+
+}
+
+.info .edit {
+
+    padding-top: 25px;
+    font-size: 35px;
+}
+
+.info .delete {
+
+    padding-left: 15px;
+    padding-top: 30px;
+    font-size: 35px;
+}
